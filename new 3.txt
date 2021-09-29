@@ -1,0 +1,2 @@
+  var str = userInput.join(' ');
+console.log(str);
