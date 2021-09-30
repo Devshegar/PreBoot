@@ -1,0 +1,5 @@
+ var a = userInput[0];
+    var ar=a.split('');
+    var c=ar.join(",");
+    
+   console.log(c);
