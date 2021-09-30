@@ -1,0 +1,9 @@
+var s = userInput[0];
+ 
+ var w=s.split(" ");
+ for(let i=0;i<w.length;i++)
+{
+    //var ar=userInput.split('');
+  console.log(w[i]);
+}
+ 
